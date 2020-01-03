@@ -227,6 +227,9 @@
 					"BatchNumber": {
 						"type": "string"
 					},
+                                        "AndroidNotificationChannel":{
+                                               "type": "string"
+                                        },
 					"AndroidNotifyType": {
 						"type": "string"
 					},
