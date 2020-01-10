@@ -230,6 +230,9 @@
                                         "AndroidNotificationChannel":{
                                                "type": "string"
                                         },
+					"AndroidPopupActivity":{
+					       "type": "string"
+					},
 					"AndroidNotifyType": {
 						"type": "string"
 					},
