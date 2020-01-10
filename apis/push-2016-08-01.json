@@ -233,6 +233,12 @@
 					"AndroidPopupActivity":{
 					       "type": "string"
 					},
+					"AndroidPopupTitle": {
+					       "type": "string"
+					},
+					"AndroidPopupBody": {
+					       "type": "string"
+					},
 					"AndroidNotifyType": {
 						"type": "string"
 					},
@@ -295,6 +301,9 @@
 					},
 					"iOSExtParameters": {
 						"type": "string"
+					},
+					"StoreOffline": {
+						"type": "boolean"
 					}
 				}
 			}
